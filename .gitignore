@@ -1,0 +1,65 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse artifacts, including WTP generated manifests
+bin
+tmp
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.project
+.settings
+.springBeans
+.metadata
+local.properties
+.settings/
+.loadpath
+.recommenders
+spring-*/src/main/java/META-INF/MANIFEST.MF
+
+# Maven artifacts
+pom.xml
+target/
+
+# VS Code
+.vscode/
+
+# Java annotation processor (APT)
+.factorypath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+### Eclipse Patch ###
+# Spring Boot Tooling
+.sts4-cache/
